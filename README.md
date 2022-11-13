@@ -28,7 +28,7 @@ Page web com os links de músicas, jogos, sites de estudos, ou qualquer coisa qu
 
 ## Como executar o programa 
 ```bash
-git clone git@github.com:alinenog/Cracha-Nlw.git
+git clone git@github.com:alinenog/NLW_eSports-Stage.git
 
 ```
 ### Autora
