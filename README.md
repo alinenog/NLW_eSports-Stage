@@ -12,8 +12,8 @@ Page web com os links de músicas, jogos, sites de estudos, ou qualquer coisa qu
 ## Layout do projeto
 <div>
 <p align="heigth">
-    <img src="Trilha_explorer/assets/Layout_1.png" width="500" title="hover text">       
-    <img src="Trilha_explorer/assets/Layout_2.png " width="500" title="hover text">
+    <img src="assets/Layout_1.png" width="500" title="hover text">       
+    <img src="assets/Layout_2.png " width="500" title="hover text">
 </p>
 </div>
 
