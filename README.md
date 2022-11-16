@@ -31,5 +31,11 @@ Page web com os links de músicas, jogos, sites de estudos, ou qualquer coisa qu
 git clone git@github.com:alinenog/NLW_eSports-Stage.git
 
 ```
+</br>
+✳️Link de acesso </br>
+https://alinenog.github.io/NLW_eSports-Stage/
+
+</br>
+
 ### Autora
 Aline Nogueir@ 👩🏻‍💻
